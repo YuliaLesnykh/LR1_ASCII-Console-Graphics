@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![ASCII Graphics](https://img.shields.io/badge/ASCII-Console-green)
+
 # Лабораторная работа 1: Консольная ASCII-графика
 
 Программа реализует анимацию "Падающие звёзды" в консоли с использованием стандартных средств Python. 
